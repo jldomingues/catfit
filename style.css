@@ -1,0 +1,74 @@
+body {
+      /*centralizar todo site*/
+    font-size: 15pt;
+    margin:2px;
+    margin-left:auto;
+    margin-right:auto;
+    
+    width:9.5em;
+    text-align: center;
+    background-color: #363636;
+    color:white;
+}
+input{
+ width:50%;
+ height: 40px;
+ font-size: 30px;
+ 
+}
+/* titulo */
+h1{
+  color:#fab229;
+  font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Prompt', sans-serif;
+font-family: 'Saira Condensed', sans-serif;
+font-size: 80px;
+ font-weight: bold;
+ margin-top: -5px;
+ 
+    
+    text-align: center;
+}
+/*botões*/
+h2{
+  color:#fab229;
+  font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Prompt', sans-serif;
+font-family: 'Saira Condensed', sans-serif;
+font-size: 40px;
+ font-weight: bold;
+ margin-top: -5px;
+ margin-bottom: -10px;
+ 
+    
+    text-align: center;
+}
+div#entrada{
+  margin-top: -20px;
+}
+/*bordas de resultado*/
+div.vermelho{
+  font-size: 30px;
+   background-color:#ed4246;
+   border:solid 2px #ed4246;
+   
+  
+   
+}
+div.verde{
+   font-size: 30px;
+   background-color:#1ED445;
+   border:solid 2px #1ED445;
+   color:white;
+   
+}
+/*botão de resultado*/
+div#res{
+  margin-top:-20px;
+}
+   
+h5{
+  margin-top: -80px;
+}
